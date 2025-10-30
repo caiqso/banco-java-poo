@@ -1,5 +1,3 @@
-package br.com.dio.br.com.dio.exercicios.br.com.dio.exercicios.poo;
-
 import java.util.Scanner;
 
 public class ContaBancaria {

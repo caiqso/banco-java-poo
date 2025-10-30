@@ -18,7 +18,7 @@ public class Main {
         int numConta = scanner.nextInt();
         System.out.println("Digite o depósito inicial: ");
         float depositoInicial = scanner.nextFloat();
-        br.com.dio.br.com.dio.exercicios.br.com.dio.exercicios.poo.ContaBancaria conta = new br.com.dio.br.com.dio.exercicios.br.com.dio.exercicios.poo.ContaBancaria(pessoa, numConta, depositoInicial);
+        ContaBancaria conta = new ContaBancaria(pessoa, numConta, depositoInicial);
 
         // menu bancário para testes automatizados
         int opcao;
