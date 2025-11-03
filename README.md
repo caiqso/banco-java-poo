@@ -1,4 +1,4 @@
-# 💰 Projeto Conta Bancária em Java | Bank Account System in Java
+# Projeto Conta Bancária em Java (Bank Account System in Java)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)](#)
 
 Um sistema bancário simples desenvolvido em **Java**, com foco em **Programação Orientada a Objetos (POO)** e boas práticas de codificação.  
